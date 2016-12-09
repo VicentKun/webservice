@@ -1,7 +1,7 @@
 # webservice
 Webservice with Node JS.
 <br><br>
-<h2>Instalation</h2>
+<h2>Installation</h2>
 <ul>
 	<li>$> git clone https://github.com/VicentKun/webservice.git</li>
 	<li>$> cd webservice</li>
