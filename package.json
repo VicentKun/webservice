@@ -1,0 +1,26 @@
+{
+  "name": "webservice",
+  "version": "0.0.0",
+  "description": "Webservice with NodeJS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicentKun/webservice.git"
+  },
+  "keywords": [
+    "WebService",
+    "NodeJS",
+    "Vicent",
+    "Kun",
+    "BackEnd"
+  ],
+  "author": "Vicent Kun < http://www.vicentkun.com >",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VicentKun/webservice/issues"
+  },
+  "homepage": "https://github.com/VicentKun/webservice#readme"
+}
